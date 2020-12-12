@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ethel",
+    "last_name": "Blowes",
+    "email": "eblowes1@i2i.jp",
+    "rank": "Recruiter",
+    "work_started": "2020-12-06",
+    "shift_hours": "8:00 AM - 4:00 PM"
+  },
+  {
+    "id": 2,
+    "first_name": "Rubina",
+    "last_name": "Herley",
+    "email": "rherley2@epa.gov",
+    "rank": "Editor",
+    "work_started": "2020-12-23",
+    "shift_hours": "8:00 AM - 4:00 PM"
+  },
+  {
+    "id": 3,
+    "first_name": "Nial",
+    "last_name": "Pareman",
+    "email": "npareman3@hugedomains.com",
+    "rank": "Registered Nurse",
+    "work_started": "2019-08-07",
+    "shift_hours": "8:00 AM - 4:00 PM"
+  },
+  {
+    "id": 4,
+    "first_name": "Cindelyn",
+    "last_name": "Mizen",
+    "email": "cmizen4@cisco.com",
+    "rank": "VP Accounting",
+    "work_started": "2019-04-24",
+    "shift_hours": "8:00 AM - 4:00 PM"
+  },
+  {
+    "id": 5,
+    "first_name": "Sibbie",
+    "last_name": "Dunkerton",
+    "email": "sdunkerton5@rediff.com",
+    "rank": "Budget/Accounting Analyst II",
+    "work_started": "2019-09-12",
+    "shift_hours": "8:00 AM - 4:00 PM"
+  }
+]
